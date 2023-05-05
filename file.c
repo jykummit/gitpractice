@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// this is palindrome number program in c
 int main()
 {
 	int n,r,rev=0,temp;
@@ -19,3 +19,4 @@ int main()
 	}
 	return 0;
 }
+thanks
